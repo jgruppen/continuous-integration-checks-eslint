@@ -1,5 +1,5 @@
 const mainFunc = () => {
-  console.log("Hello Wolrd")
+  console.log("Hello Wolrd!")
 }
 
 mainFunc()
